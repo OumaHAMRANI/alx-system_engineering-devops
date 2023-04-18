@@ -1,1 +1,1 @@
-readme file for 0x02-shell_redirections
+this is readme
